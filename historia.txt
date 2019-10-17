@@ -1,5 +1,7 @@
-hola soy noé
+﻿hola soy noé
 
 soy programador
 
 estoy aprendiendo git
+
+hola ya baje el repo de noé de github
